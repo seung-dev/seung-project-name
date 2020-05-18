@@ -1,6 +1,6 @@
 # seung-project-name
 
-## Korean dishes by type
+## Korean dishes by type <https://en.wikipedia.org/wiki/List_of_Korean_dishes>
 
 ### Royal court dishes
 Main article: Korean royal court cuisine
