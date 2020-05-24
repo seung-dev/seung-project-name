@@ -81,6 +81,12 @@ Main article: Namul
   + Oritang, a soup or stew made by slowly simmering duck and various vegetables.[4][5]
   + Samgyetang (삼계탕): a soup made with Cornish game hens that are stuffed with ginseng, hwanggi (황기, Astragalus propinquus),[6] glutinous rice, jujubes, garlic, and chestnuts. The soup is traditionally eaten in the summer.
   + Seolleongtang (설렁탕): A beef bone stock is simmered overnight then served with thinly sliced pieces of beef. Usually served in a bowl containing dangmyeon (당면, cellophane noodless) and pieces of beef. Sliced scallions and black pepper are used as condiments.[1]
+  + Gomtang (곰탕) : beef leg bones are the main ingredients
+    + Sagol gomtang (사골곰탕) : beef leg bones are the main ingredients
+    + Kkori-gomtang (꼬리곰탕) : ox tail soup[7]
+    + Toran gomtang (토란곰탕) : beef brisket based with toran
+    + Doganitang (도가니탕) : beef knee cartilage is an additional ingredient
+    + Chupotang (추포탕) : finely ground perilla is added[9]
   + Maeuntang (매운탕): a refreshing, hot and spicy fish soup.
   + Gamjatang (감자탕, "pork spine stew" (literally means potato soup): a spicy soup made with pork spine, vegetables (especially potatoes) and hot peppers. The vertebrae are usually separated. This is often served as a late night snack but may also be served for a lunch or dinner.[2]
   + Daktoritang (닭도리탕) : A spicy chicken and potato stew. Also known as Dakbokkeumtang (닭볶음탕).
